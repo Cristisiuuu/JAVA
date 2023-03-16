@@ -6,7 +6,7 @@ Este é um projeto onde vou registrar minha evolução dentro da linguagem Java,
     
 Aqui está uma lista dos exercícios que eu já fiz até agora:
 
-1. Hello World - um programa simples que imprime "Hello, World!" na tela.
+1. Olá Mundo - um programa simples que imprime "Olá Mundo" na tela.
 
 2. Calculadora - um programa que realiza as operações básicas de uma calculadora.
 
