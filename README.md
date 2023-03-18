@@ -8,9 +8,15 @@ Aqui está uma lista dos exercícios que eu já fiz até agora:
 
 1. Olá Mundo - um programa simples que imprime "Olá Mundo" na tela.
 
-2. Calculadora - um programa que realiza as operações básicas de uma calculadora.
+2. Imprime Nome - um programa que Imprime 100 vezes o nome na tela tanto com a estrutura de repetição (While & For).
 
-3. Jogo da Adivinhação - um jogo em que o usuário tenta adivinhar um número aleatório gerado pelo programa.
+3. Imprimir Par e Impar - Os números ímpares, são impresso por um “*”, e para os números pares, são impresso por dois “**”.
+
+4. restrição aos multiplos de 4 - Para os números múltiplos de 4, imprime a palavra “PI”, e para os outros, imprime o próprio número.
+
+5. Sequência de Fibonacci - Um programa que imprime os 30 primeiros números da sequência.
+
+6. Menu - Um programa que fornece atalho para os 5 programas ja feitos (1/2/3/4/5).
 
 ## Como executar os programas
 
