@@ -1,0 +1,3 @@
+class Agencia{
+    int numero;
+}
